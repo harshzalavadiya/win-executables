@@ -1,0 +1,10 @@
+<service>
+    <id>some id</id> <!-- Change this -->
+    <name>some name</name><!-- Change this -->
+    <description>some description</description><!-- Change this -->
+    <workingdirectory>%BASE%\</workingdirectory>
+    <logpath>%BASE%\logs</logpath>
+
+    <executable>some.exe</executable>
+    <arguments>web</arguments><!-- Change this -->
+</service>
